@@ -1,0 +1,6 @@
+{
+  "name": "Phonedex",
+  "description": "The Ultimate Pokédex companion app with high-fidelity UI, voice assistant, team builder, and camera scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
